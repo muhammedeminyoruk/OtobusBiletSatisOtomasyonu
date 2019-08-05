@@ -1,0 +1,39 @@
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe.config
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Form1.resources
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Properties.Resources.resources
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Design.dll
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe.config
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Design.dll
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Form1.resources
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Properties.Resources.resources
+C:\Users\muham\Desktop\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe.config
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.pdb
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Design.dll
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.dll
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Properties.Resources.resources
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.Formum.resources
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\Otobüs Bilet Satış Otomasyonu Programı\otobusbiletotomasyonu\otobusbiletotomasyonu\bin\Debug\otobusbiletotomasyonu.exe.config
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\Otobüs Bilet Satış Otomasyonu Programı\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.exe
+C:\Users\muham\Desktop\Otobüs Bilet Otomasyonu\Otobüs Bilet Satış\Otobüs Bilet Satış Otomasyonu Programı\otobusbiletotomasyonu\otobusbiletotomasyonu\obj\Debug\otobusbiletotomasyonu.pdb
